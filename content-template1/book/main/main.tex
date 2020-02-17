@@ -1,0 +1,48 @@
+% Copyright 2020 by [author]
+%This work is licensed under a
+%Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
+%See http://creativecommons.org/licenses/by-sa/4.0/
+
+
+\documentclass[letter,11pt]{book}
+
+\input{../preamble0-biblatex.tex}  % It suffices to comment out this line to use the old bibtex technology
+\input{../preamble.tex}
+\input{../preamble2.tex}
+
+\usepackage[english]{babel}
+
+\usepackage{fancyhdr}
+%\pagestyle{fancy}
+
+
+\input{../main/title}
+
+\begin{document}
+
+ 
+  
+\import{../sections/}{front-matter.tex}
+
+\chapter{Preface}
+
+\tableofcontents
+
+\import{../sections/}{introduction.tex}
+\import{../sections/}{Mathematical-Programming.tex}
+\import{../sections/}{Models.tex}
+\import{../sections/}{complexity.tex}
+
+
+\ifx\footfullcite\undefined  %%%%% Use old technology (bibtex)
+  \bibliographystyle{plain}
+  \bibliography{../../../open-optimization-bibliography/bib/references}
+\else                        %%%%% Use new technology (biblatex)
+  \printbibliography
+\fi
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "open-optimization"
+%%% End:
