@@ -1,0 +1,134 @@
+\begin{thebibliography}{10}
+
+\bibitem{baptiste_inf421}
+Ph. Baptiste and L.~Maranget.
+\newblock {\em Programmation et Algorithmique (in French)}.
+\newblock Polycopi\'e de l'Ecole Polytechnique, Palaiseau, 2009.
+
+\bibitem{bergebook2}
+C.~Berge.
+\newblock {\em Th\'eorie des graphes et ses applications}.
+\newblock Dunod, Paris, 1958.
+
+\bibitem{gameoflife}
+E.~Berlekamp, J.~Conway, and R.~Guy.
+\newblock {\em Winning ways for your mathematical plays, vol.~2}.
+\newblock Academic Press, 1982.
+
+\bibitem{graphhistory}
+N.~Biggs, E.~Lloyd, and R.~Wilson.
+\newblock {\em Graph Theory 1736-1936}.
+\newblock Oxford University Press, Oxford, 1976.
+
+\bibitem{universallang}
+C.~B\"ohm and G.~Jacopini.
+\newblock Flow diagrams, turing machines and languages with only two formation
+  rules.
+\newblock {\em Communications of the ACM}, 9(5):366--371, 1966.
+
+\bibitem{cameron2}
+P.~Cameron.
+\newblock {\em Combinatorics: Topics, Techniques, Algorithms}.
+\newblock Cambridge University Press, Cambridge, 1994.
+
+\bibitem{chomsky}
+N.~Chomsky.
+\newblock {\em Aspects of the Theory of Syntax}.
+\newblock MIT Press, Cambridge, MA, 1965.
+
+\bibitem{clark}
+A.~Clark.
+\newblock {\em Elements of Abstract Algebra}.
+\newblock Dover, New York, 1984.
+
+\bibitem{dowek}
+G.~Dowek.
+\newblock {\em Les principes des langages de programmation (in French)}.
+\newblock Editions de l'Ecole Polytechnique, Palaiseau, 2008.
+
+\bibitem{gareyjohnson}
+M.~Garey and D.~Johnson.
+\newblock {\em Computers and Intractability: a Guide to the Theory of {{\bf
+  NP}}-{C}ompleteness}.
+\newblock Freeman and Company, New York, 1979.
+
+\bibitem{jones}
+J.~Jones.
+\newblock Universal diophantine equation.
+\newblock {\em Journal of Symbolic Logic}, 47(3):549--571, 1982.
+
+\bibitem{knuthNew1}
+D.E. Knuth.
+\newblock {\em The Art of Computer Programming, Part {I}: {F}undamental
+  Algorithms}.
+\newblock Addison-Wesley, Reading, MA, 2nd edition, 1997.
+
+\bibitem{koenig}
+D.~K\"onig.
+\newblock {\em Theory of Finite and Infinite Graphs}.
+\newblock Birkh\"auser, Boston, 1990.
+
+\bibitem{kunen}
+K.~Kunen.
+\newblock {\em Set Theory. An Introduction to Independence Proofs}.
+\newblock North Holland, Amsterdam, 1980.
+
+\bibitem{mehlhorn}
+K.~Mehlhorn and P.~Sanders.
+\newblock {\em Algorithms and Data Structures}.
+\newblock Springer, Berlin, 2008.
+
+\bibitem{minskyUTM}
+M.~Minsky.
+\newblock Size and structure of universal turing machines using tag systems.
+\newblock In {\em Recursive Function Theory}, volume~5 of {\em Symposia in Pure
+  Mathematics}, pages 229--238. AMS, Providence, 1962.
+
+\bibitem{minsky}
+M.~Minsky.
+\newblock {\em Computation: {F}inite and infinite machines}.
+\newblock Prentice-Hall, London, 1967.
+
+\bibitem{montague}
+R.~Montague.
+\newblock {\em Formal Philosophy}.
+\newblock Yale University Press, London, 1974.
+
+\bibitem{roghozin}
+Y.~Roghozin.
+\newblock Small universal {T}uring machines.
+\newblock {\em Theoretical Computer Science}, 168:215--240, 1996.
+
+\bibitem{seshu}
+S.~Seshu and M.B. Reed.
+\newblock {\em Linear Graphs and Electrical Networks}.
+\newblock Addison-Wesley, Reading, MA, 1961.
+
+\bibitem{shannonUTM}
+C.~Shannon.
+\newblock A universal {T}uring machine with two internal states.
+\newblock In C.~Shannon and J.~McCarthy, editors, {\em Automata Studies},
+  volume~34 of {\em Annals of Mathematics Studies}, pages 157--165, Princeton,
+  1956. Princeton University Press.
+
+\bibitem{thorup}
+M.~Thorup.
+\newblock Undirected single-source shortest paths with positive integer weights
+  in linear time.
+\newblock {\em Journal of the ACM}, 46(3):362--394, 1999.
+
+\bibitem{turing}
+A.~Turing.
+\newblock On computable numbers, with an application to the
+  {E}ntscheidungsproblem.
+\newblock {\em Proceedings of the London Mathematical Society}, 42(1):230--265,
+  1937.
+
+\bibitem{yngve}
+V.~Yngve.
+\newblock The depth hypothesis.
+\newblock In {\em Structure of Language and its Mathematical Aspects}, volume
+  XII of {\em Proceedings of Symposia in Applied Mathematics}. American
+  Mathematical Society, Providence, 1961.
+
+\end{thebibliography}

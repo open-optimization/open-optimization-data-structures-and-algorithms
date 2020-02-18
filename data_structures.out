@@ -1,0 +1,299 @@
+\BOOKMARK [-1][-]{part.1}{I Preliminaries and reminders}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Computation}{part.1}% 2
+\BOOKMARK [1][-]{section.1.1}{Computer hardware}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.1}{Programs}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Computer model}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Models of computation}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{Church's Thesis}{section.1.2}% 7
+\BOOKMARK [1][-]{section.1.3}{Languages}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.3.1}{Declarative languages}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.2}{Decidability}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.3}{Java}{section.1.3}% 11
+\BOOKMARK [1][-]{section.1.4}{Efficiency}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.4.1}{Structuring data}{section.1.4}% 13
+\BOOKMARK [2][-]{subsection.1.4.2}{Problems}{section.1.4}% 14
+\BOOKMARK [2][-]{subsection.1.4.3}{Algorithms}{section.1.4}% 15
+\BOOKMARK [3][-]{subsubsection.1.4.3.1}{Algorithmic complexity}{subsection.1.4.3}% 16
+\BOOKMARK [3][-]{subsubsection.1.4.3.2}{Worst-case time complexity calculations}{subsection.1.4.3}% 17
+\BOOKMARK [3][-]{subsubsection.1.4.3.3}{Complexity orders}{subsection.1.4.3}% 18
+\BOOKMARK [0][-]{chapter.2}{Java basics}{part.1}% 19
+\BOOKMARK [1][-]{section.2.1}{Development of a Java program}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.1.1}{Variables}{section.2.1}% 21
+\BOOKMARK [3][-]{subsubsection.2.1.1.1}{References}{subsection.2.1.1}% 22
+\BOOKMARK [2][-]{subsection.2.1.2}{Comments}{section.2.1}% 23
+\BOOKMARK [2][-]{subsection.2.1.3}{Classes}{section.2.1}% 24
+\BOOKMARK [3][-]{subsubsection.2.1.3.1}{The this attribute}{subsection.2.1.3}% 25
+\BOOKMARK [3][-]{subsubsection.2.1.3.2}{Inheritance}{subsection.2.1.3}% 26
+\BOOKMARK [3][-]{subsubsection.2.1.3.3}{Interfaces}{subsection.2.1.3}% 27
+\BOOKMARK [2][-]{subsection.2.1.4}{Functions}{section.2.1}% 28
+\BOOKMARK [3][-]{subsubsection.2.1.4.1}{Passing by reference or value}{subsection.2.1.4}% 29
+\BOOKMARK [3][-]{subsubsection.2.1.4.2}{The main function}{subsection.2.1.4}% 30
+\BOOKMARK [3][-]{subsubsection.2.1.4.3}{Specifiers}{subsection.2.1.4}% 31
+\BOOKMARK [2][-]{subsection.2.1.5}{Data types}{section.2.1}% 32
+\BOOKMARK [2][-]{subsection.2.1.6}{The dot operator}{section.2.1}% 33
+\BOOKMARK [2][-]{subsection.2.1.7}{The curly brackets}{section.2.1}% 34
+\BOOKMARK [2][-]{subsection.2.1.8}{The semicolon}{section.2.1}% 35
+\BOOKMARK [2][-]{subsection.2.1.9}{How code is executed}{section.2.1}% 36
+\BOOKMARK [1][-]{section.2.2}{Arrays in Java}{chapter.2}% 37
+\BOOKMARK [2][-]{subsection.2.2.1}{Dimensions}{section.2.2}% 38
+\BOOKMARK [2][-]{subsection.2.2.2}{The square bracket notation}{section.2.2}% 39
+\BOOKMARK [1][-]{section.2.3}{Example: plotting the graph of a function}{chapter.2}% 40
+\BOOKMARK [2][-]{subsection.2.3.1}{A typical output}{section.2.3}% 41
+\BOOKMARK [2][-]{subsection.2.3.2}{Comments and imports}{section.2.3}% 42
+\BOOKMARK [2][-]{subsection.2.3.3}{The class declaration}{section.2.3}% 43
+\BOOKMARK [2][-]{subsection.2.3.4}{The main function}{section.2.3}% 44
+\BOOKMARK [2][-]{subsection.2.3.5}{Initialization}{section.2.3}% 45
+\BOOKMARK [2][-]{subsection.2.3.6}{Function tabulation}{section.2.3}% 46
+\BOOKMARK [2][-]{subsection.2.3.7}{Converting the function table to an array}{section.2.3}% 47
+\BOOKMARK [2][-]{subsection.2.3.8}{Printing the screen}{section.2.3}% 48
+\BOOKMARK [2][-]{subsection.2.3.9}{Compilation and running}{section.2.3}% 49
+\BOOKMARK [-1][-]{part.2}{II Data structures}{}% 50
+\BOOKMARK [0][-]{chapter.3}{Graphs}{part.2}% 51
+\BOOKMARK [1][-]{section.3.1}{Directed graphs}{chapter.3}% 52
+\BOOKMARK [2][-]{subsection.3.1.1}{Directed neighbourhoods}{section.3.1}% 53
+\BOOKMARK [1][-]{section.3.2}{Undirected graphs}{chapter.3}% 54
+\BOOKMARK [2][-]{subsection.3.2.1}{Complement graphs}{section.3.2}% 55
+\BOOKMARK [2][-]{subsection.3.2.2}{Neighbourhoods}{section.3.2}% 56
+\BOOKMARK [2][-]{subsection.3.2.3}{Graph isomorphism}{section.3.2}% 57
+\BOOKMARK [2][-]{subsection.3.2.4}{Line graph}{section.3.2}% 58
+\BOOKMARK [1][-]{section.3.3}{Subgraphs}{chapter.3}% 59
+\BOOKMARK [2][-]{subsection.3.3.1}{Stable and clique subgraphs}{section.3.3}% 60
+\BOOKMARK [2][-]{subsection.3.3.2}{Some applications}{section.3.3}% 61
+\BOOKMARK [1][-]{section.3.4}{Connectivity}{chapter.3}% 62
+\BOOKMARK [2][-]{subsection.3.4.1}{Simple paths}{section.3.4}% 63
+\BOOKMARK [2][-]{subsection.3.4.2}{An alternative definition of paths and connectivity}{section.3.4}% 64
+\BOOKMARK [2][-]{subsection.3.4.3}{Paths: not so simple}{section.3.4}% 65
+\BOOKMARK [2][-]{subsection.3.4.4}{Strong connectivity}{section.3.4}% 66
+\BOOKMARK [2][-]{subsection.3.4.5}{Cycles}{section.3.4}% 67
+\BOOKMARK [2][-]{subsection.3.4.6}{An alternative definition of cycles}{section.3.4}% 68
+\BOOKMARK [2][-]{subsection.3.4.7}{The cycle space}{section.3.4}% 69
+\BOOKMARK [3][-]{subsubsection.3.4.7.1}{Cycle-edge incidence vectors}{subsection.3.4.7}% 70
+\BOOKMARK [1][-]{section.3.5}{Basic operations on graphs}{chapter.3}% 71
+\BOOKMARK [2][-]{subsection.3.5.1}{Addition and removal of vertices and edges}{section.3.5}% 72
+\BOOKMARK [2][-]{subsection.3.5.2}{Contraction}{section.3.5}% 73
+\BOOKMARK [0][-]{chapter.4}{Linear data structures}{part.2}% 74
+\BOOKMARK [1][-]{section.4.1}{Arrays}{chapter.4}% 75
+\BOOKMARK [2][-]{subsection.4.1.1}{Jagged arrays}{section.4.1}% 76
+\BOOKMARK [3][-]{subsubsection.4.1.1.1}{Adjacency lists}{subsection.4.1.1}% 77
+\BOOKMARK [2][-]{subsection.4.1.2}{Array operations}{section.4.1}% 78
+\BOOKMARK [3][-]{subsubsection.4.1.2.1}{Size in O\(1\)}{subsection.4.1.2}% 79
+\BOOKMARK [3][-]{subsubsection.4.1.2.2}{Moving a subsequence}{subsection.4.1.2}% 80
+\BOOKMARK [3][-]{subsubsection.4.1.2.3}{Removal and insertion}{subsection.4.1.2}% 81
+\BOOKMARK [2][-]{subsection.4.1.3}{Complexity of an incomplete loop}{section.4.1}% 82
+\BOOKMARK [3][-]{subsubsection.4.1.3.1}{Worst-case complexity}{subsection.4.1.3}% 83
+\BOOKMARK [3][-]{subsubsection.4.1.3.2}{Average-case complexity}{subsection.4.1.3}% 84
+\BOOKMARK [2][-]{subsection.4.1.4}{Limitations of the array structure}{section.4.1}% 85
+\BOOKMARK [1][-]{section.4.2}{Lists}{chapter.4}% 86
+\BOOKMARK [2][-]{subsection.4.2.1}{Singly-linked lists}{section.4.2}% 87
+\BOOKMARK [2][-]{subsection.4.2.2}{Doubly-linked lists}{section.4.2}% 88
+\BOOKMARK [3][-]{subsubsection.4.2.2.1}{The placeholder node}{subsection.4.2.2}% 89
+\BOOKMARK [2][-]{subsection.4.2.3}{Lists modelled as graphs}{section.4.2}% 90
+\BOOKMARK [2][-]{subsection.4.2.4}{List operations}{section.4.2}% 91
+\BOOKMARK [3][-]{subsubsection.4.2.4.1}{Insertion}{subsection.4.2.4}% 92
+\BOOKMARK [3][-]{subsubsection.4.2.4.2}{Removal}{subsection.4.2.4}% 93
+\BOOKMARK [3][-]{subsubsection.4.2.4.3}{Find}{subsection.4.2.4}% 94
+\BOOKMARK [3][-]{subsubsection.4.2.4.4}{Access}{subsection.4.2.4}% 95
+\BOOKMARK [3][-]{subsubsection.4.2.4.5}{Other operations}{subsection.4.2.4}% 96
+\BOOKMARK [2][-]{subsection.4.2.5}{Java implementation}{section.4.2}% 97
+\BOOKMARK [3][-]{subsubsection.4.2.5.1}{The Node class}{subsection.4.2.5}% 98
+\BOOKMARK [3][-]{subsubsection.4.2.5.2}{The DLList class}{subsection.4.2.5}% 99
+\BOOKMARK [3][-]{subsubsection.4.2.5.3}{The main function}{subsection.4.2.5}% 100
+\BOOKMARK [1][-]{section.4.3}{Queues}{chapter.4}% 101
+\BOOKMARK [2][-]{subsection.4.3.1}{Circular arrays}{section.4.3}% 102
+\BOOKMARK [3][-]{subsubsection.4.3.1.1}{Java implementation}{subsection.4.3.1}% 103
+\BOOKMARK [2][-]{subsection.4.3.2}{What are queues used for?}{section.4.3}% 104
+\BOOKMARK [1][-]{section.4.4}{Stacks}{chapter.4}% 105
+\BOOKMARK [2][-]{subsection.4.4.1}{Using stacks for validating mathematical syntax}{section.4.4}% 106
+\BOOKMARK [3][-]{subsubsection.4.4.1.1}{Java implementation}{subsection.4.4.1}% 107
+\BOOKMARK [3][-]{subsubsection.4.4.1.2}{The main method for bracketStack}{subsection.4.4.1}% 108
+\BOOKMARK [3][-]{subsubsection.4.4.1.3}{Sample output}{subsection.4.4.1}% 109
+\BOOKMARK [2][-]{subsection.4.4.2}{Calling functions}{section.4.4}% 110
+\BOOKMARK [3][-]{subsubsection.4.4.2.1}{Smashing the stack for fun and profit}{subsection.4.4.2}% 111
+\BOOKMARK [1][-]{section.4.5}{Maps}{chapter.4}% 112
+\BOOKMARK [2][-]{subsection.4.5.1}{Maps as parametrized interfaces}{section.4.5}% 113
+\BOOKMARK [2][-]{subsection.4.5.2}{Example of map usage in Java}{section.4.5}% 114
+\BOOKMARK [0][-]{chapter.5}{Hashing}{part.2}% 115
+\BOOKMARK [1][-]{section.5.1}{Do we really need it?}{chapter.5}% 116
+\BOOKMARK [2][-]{subsection.5.1.1}{The phonebook example}{section.5.1}% 117
+\BOOKMARK [2][-]{subsection.5.1.2}{Formal explanation}{section.5.1}% 118
+\BOOKMARK [2][-]{subsection.5.1.3}{Applications of hashing to Java}{section.5.1}% 119
+\BOOKMARK [1][-]{section.5.2}{The last nagging doubt}{chapter.5}% 120
+\BOOKMARK [1][-]{section.5.3}{Java implementation}{chapter.5}% 121
+\BOOKMARK [2][-]{subsection.5.3.1}{A hash table without collisions}{section.5.3}% 122
+\BOOKMARK [3][-]{subsubsection.5.3.1.1}{Keys and records}{subsection.5.3.1}% 123
+\BOOKMARK [3][-]{subsubsection.5.3.1.2}{The main class}{subsection.5.3.1}% 124
+\BOOKMARK [3][-]{subsubsection.5.3.1.3}{The hash function}{subsection.5.3.1}% 125
+\BOOKMARK [3][-]{subsubsection.5.3.1.4}{Main function}{subsection.5.3.1}% 126
+\BOOKMARK [2][-]{subsection.5.3.2}{A hash table allowing for collisions}{section.5.3}% 127
+\BOOKMARK [3][-]{subsubsection.5.3.2.1}{A Java implementation of a singly-linked list}{subsection.5.3.2}% 128
+\BOOKMARK [3][-]{subsubsection.5.3.2.2}{The main class}{subsection.5.3.2}% 129
+\BOOKMARK [3][-]{subsubsection.5.3.2.3}{Adding elements to the hash table}{subsection.5.3.2}% 130
+\BOOKMARK [3][-]{subsubsection.5.3.2.4}{Finding elements in the hash table}{subsection.5.3.2}% 131
+\BOOKMARK [3][-]{subsubsection.5.3.2.5}{Main function}{subsection.5.3.2}% 132
+\BOOKMARK [0][-]{chapter.6}{Trees}{part.2}% 133
+\BOOKMARK [1][-]{section.6.1}{Definitions}{chapter.6}% 134
+\BOOKMARK [2][-]{subsection.6.1.1}{Roots and direction}{section.6.1}% 135
+\BOOKMARK [2][-]{subsection.6.1.2}{Leafs, depth and height}{section.6.1}% 136
+\BOOKMARK [2][-]{subsection.6.1.3}{Spanning tree}{section.6.1}% 137
+\BOOKMARK [2][-]{subsection.6.1.4}{Vertex labels}{section.6.1}% 138
+\BOOKMARK [1][-]{section.6.2}{Basic properties}{chapter.6}% 139
+\BOOKMARK [2][-]{subsection.6.2.1}{Number of edges}{section.6.2}% 140
+\BOOKMARK [2][-]{subsection.6.2.2}{Connectivity}{section.6.2}% 141
+\BOOKMARK [2][-]{subsection.6.2.3}{Acyclicity}{section.6.2}% 142
+\BOOKMARK [2][-]{subsection.6.2.4}{Edge swapping operation}{section.6.2}% 143
+\BOOKMARK [1][-]{section.6.3}{The number of labelled trees}{chapter.6}% 144
+\BOOKMARK [2][-]{subsection.6.3.1}{Mapping trees to sequences}{section.6.3}% 145
+\BOOKMARK [2][-]{subsection.6.3.2}{Mapping sequences to trees}{section.6.3}% 146
+\BOOKMARK [1][-]{section.6.4}{Applications}{chapter.6}% 147
+\BOOKMARK [2][-]{subsection.6.4.1}{Finding a basis of the cycle space}{section.6.4}% 148
+\BOOKMARK [2][-]{subsection.6.4.2}{Chemical trees}{section.6.4}% 149
+\BOOKMARK [2][-]{subsection.6.4.3}{Trees and languages}{section.6.4}% 150
+\BOOKMARK [3][-]{subsubsection.6.4.3.1}{Trees and recursion}{subsection.6.4.3}% 151
+\BOOKMARK [3][-]{subsubsection.6.4.3.2}{Syntax of formal languages}{subsection.6.4.3}% 152
+\BOOKMARK [4][-]{paragraph.6.4.3.2.1}{Construction of valid sentences}{subsubsection.6.4.3.2}% 153
+\BOOKMARK [4][-]{paragraph.6.4.3.2.2}{Recognition of valid sentences}{subsubsection.6.4.3.2}% 154
+\BOOKMARK [3][-]{subsubsection.6.4.3.3}{Semantics of formal languages}{subsection.6.4.3}% 155
+\BOOKMARK [3][-]{subsubsection.6.4.3.4}{Syntax of natural languages}{subsection.6.4.3}% 156
+\BOOKMARK [3][-]{subsubsection.6.4.3.5}{Semantics of natural languages}{subsection.6.4.3}% 157
+\BOOKMARK [2][-]{subsection.6.4.4}{Trees in networks}{section.6.4}% 158
+\BOOKMARK [3][-]{subsubsection.6.4.4.1}{Commodity networks}{subsection.6.4.4}% 159
+\BOOKMARK [3][-]{subsubsection.6.4.4.2}{Distance networks}{subsection.6.4.4}% 160
+\BOOKMARK [-1][-]{part.3}{III Algorithms}{}% 161
+\BOOKMARK [0][-]{chapter.7}{Recursive algorithms}{part.3}% 162
+\BOOKMARK [1][-]{section.7.1}{Motivations}{chapter.7}% 163
+\BOOKMARK [2][-]{subsection.7.1.1}{Proving program properties}{section.7.1}% 164
+\BOOKMARK [2][-]{subsection.7.1.2}{Expressing certain procedures naturally}{section.7.1}% 165
+\BOOKMARK [3][-]{subsubsection.7.1.2.1}{Encoding the tree}{subsection.7.1.2}% 166
+\BOOKMARK [3][-]{subsubsection.7.1.2.2}{A code with limited scope}{subsection.7.1.2}% 167
+\BOOKMARK [3][-]{subsubsection.7.1.2.3}{Algorithms and problems}{subsection.7.1.2}% 168
+\BOOKMARK [3][-]{subsubsection.7.1.2.4}{Recursion saves the day}{subsection.7.1.2}% 169
+\BOOKMARK [3][-]{subsubsection.7.1.2.5}{Back to iteration}{subsection.7.1.2}% 170
+\BOOKMARK [1][-]{section.7.2}{Iteration and recursion}{chapter.7}% 171
+\BOOKMARK [2][-]{subsection.7.2.1}{Terminating the recursion}{section.7.2}% 172
+\BOOKMARK [1][-]{section.7.3}{Listing permutations}{chapter.7}% 173
+\BOOKMARK [2][-]{subsection.7.3.1}{Some background material on permutations}{section.7.3}% 174
+\BOOKMARK [3][-]{subsubsection.7.3.1.1}{Product of permutations}{subsection.7.3.1}% 175
+\BOOKMARK [3][-]{subsubsection.7.3.1.2}{Group structure}{subsection.7.3.1}% 176
+\BOOKMARK [3][-]{subsubsection.7.3.1.3}{Cycle notation}{subsection.7.3.1}% 177
+\BOOKMARK [2][-]{subsection.7.3.2}{The inductive step}{section.7.3}% 178
+\BOOKMARK [3][-]{subsubsection.7.3.2.1}{Generalizing the example to an integer n}{subsection.7.3.2}% 179
+\BOOKMARK [3][-]{subsubsection.7.3.2.2}{The induction starts at 1}{subsection.7.3.2}% 180
+\BOOKMARK [2][-]{subsection.7.3.3}{The algorithm}{section.7.3}% 181
+\BOOKMARK [3][-]{subsubsection.7.3.3.1}{Data structures}{subsection.7.3.3}% 182
+\BOOKMARK [2][-]{subsection.7.3.4}{Java implementation}{section.7.3}% 183
+\BOOKMARK [3][-]{subsubsection.7.3.4.1}{Class structure}{subsection.7.3.4}% 184
+\BOOKMARK [3][-]{subsubsection.7.3.4.2}{The main method}{subsection.7.3.4}% 185
+\BOOKMARK [3][-]{subsubsection.7.3.4.3}{The printList method}{subsection.7.3.4}% 186
+\BOOKMARK [3][-]{subsubsection.7.3.4.4}{The orders method}{subsection.7.3.4}% 187
+\BOOKMARK [1][-]{section.7.4}{The Hanoi tower}{chapter.7}% 188
+\BOOKMARK [2][-]{subsection.7.4.1}{Inductive step}{section.7.4}% 189
+\BOOKMARK [2][-]{subsection.7.4.2}{Base case}{section.7.4}% 190
+\BOOKMARK [2][-]{subsection.7.4.3}{Java implementation}{section.7.4}% 191
+\BOOKMARK [1][-]{section.7.5}{Recursion in logic}{chapter.7}% 192
+\BOOKMARK [2][-]{subsection.7.5.1}{Definitions}{section.7.5}% 193
+\BOOKMARK [2][-]{subsection.7.5.2}{G\366del's theorem}{section.7.5}% 194
+\BOOKMARK [2][-]{subsection.7.5.3}{The beautiful and easy part of the proof}{section.7.5}% 195
+\BOOKMARK [2][-]{subsection.7.5.4}{The other part of the proof}{section.7.5}% 196
+\BOOKMARK [2][-]{subsection.7.5.5}{A natural language interpretation}{section.7.5}% 197
+\BOOKMARK [0][-]{chapter.8}{Graph searching and traversal}{part.3}% 198
+\BOOKMARK [1][-]{section.8.1}{Graph scanning}{chapter.8}% 199
+\BOOKMARK [2][-]{subsection.8.1.1}{The Graph Scanning algorithm}{section.8.1}% 200
+\BOOKMARK [3][-]{subsubsection.8.1.1.1}{Correctness}{subsection.8.1.1}% 201
+\BOOKMARK [3][-]{subsubsection.8.1.1.2}{Complexity}{subsection.8.1.1}% 202
+\BOOKMARK [3][-]{subsubsection.8.1.1.3}{Connected components}{subsection.8.1.1}% 203
+\BOOKMARK [3][-]{subsubsection.8.1.1.4}{The exploration tree}{subsection.8.1.1}% 204
+\BOOKMARK [3][-]{subsubsection.8.1.1.5}{Choosing vQ}{subsection.8.1.1}% 205
+\BOOKMARK [1][-]{section.8.2}{Breadth-first search}{chapter.8}% 206
+\BOOKMARK [2][-]{subsection.8.2.1}{Paths with fewest edges}{section.8.2}% 207
+\BOOKMARK [2][-]{subsection.8.2.2}{History of the BFS}{section.8.2}% 208
+\BOOKMARK [2][-]{subsection.8.2.3}{Looking for a good route in public transportation}{section.8.2}% 209
+\BOOKMARK [1][-]{section.8.3}{Depth-first search}{chapter.8}% 210
+\BOOKMARK [2][-]{subsection.8.3.1}{A recursive version of DFS}{section.8.3}% 211
+\BOOKMARK [2][-]{subsection.8.3.2}{History of the DFS}{section.8.3}% 212
+\BOOKMARK [2][-]{subsection.8.3.3}{Easy and difficult natural languages}{section.8.3}% 213
+\BOOKMARK [1][-]{section.8.4}{Finding a spanning tree of minimum cost}{chapter.8}% 214
+\BOOKMARK [2][-]{subsection.8.4.1}{Prim's algorithm: pseudocode}{section.8.4}% 215
+\BOOKMARK [2][-]{subsection.8.4.2}{Complexity of Prim's algorithm}{section.8.4}% 216
+\BOOKMARK [0][-]{chapter.9}{Problems and complexity}{part.3}% 217
+\BOOKMARK [1][-]{section.9.1}{Decision problems}{chapter.9}% 218
+\BOOKMARK [1][-]{section.9.2}{Optimization problems}{chapter.9}% 219
+\BOOKMARK [2][-]{subsection.9.2.1}{Relationship between decision and optimization}{section.9.2}% 220
+\BOOKMARK [1][-]{section.9.3}{Algorithms}{chapter.9}% 221
+\BOOKMARK [1][-]{section.9.4}{Complexity}{chapter.9}% 222
+\BOOKMARK [1][-]{section.9.5}{Easy and difficult problems}{chapter.9}% 223
+\BOOKMARK [2][-]{subsection.9.5.1}{Reductions}{section.9.5}% 224
+\BOOKMARK [2][-]{subsection.9.5.2}{The new problem is easy}{section.9.5}% 225
+\BOOKMARK [2][-]{subsection.9.5.3}{The new problem is as hard as another problem}{section.9.5}% 226
+\BOOKMARK [2][-]{subsection.9.5.4}{NP-hardness and NP-completeness}{section.9.5}% 227
+\BOOKMARK [2][-]{subsection.9.5.5}{The most celebrated conjecture in computer science}{section.9.5}% 228
+\BOOKMARK [2][-]{subsection.9.5.6}{The student's pitfall}{section.9.5}% 229
+\BOOKMARK [1][-]{section.9.6}{Exact and heuristic algorithms}{chapter.9}% 230
+\BOOKMARK [2][-]{subsection.9.6.1}{A heuristic method for Max Stable}{section.9.6}% 231
+\BOOKMARK [0][-]{chapter.10}{Sorting}{part.3}% 232
+\BOOKMARK [1][-]{section.10.1}{The searching problem}{chapter.10}% 233
+\BOOKMARK [1][-]{section.10.2}{Searching unsorted and sorted arrays}{chapter.10}% 234
+\BOOKMARK [1][-]{section.10.3}{The sorting problem}{chapter.10}% 235
+\BOOKMARK [2][-]{subsection.10.3.1}{Considerations on the complexity of SP}{section.10.3}% 236
+\BOOKMARK [3][-]{subsubsection.10.3.1.1}{The best algorithm for a problem}{subsection.10.3.1}% 237
+\BOOKMARK [3][-]{subsubsection.10.3.1.2}{The \(\) and \(\) notations}{subsection.10.3.1}% 238
+\BOOKMARK [2][-]{subsection.10.3.2}{Best-case complexity of SP}{section.10.3}% 239
+\BOOKMARK [3][-]{subsubsection.10.3.2.1}{The sorting tree}{subsection.10.3.2}% 240
+\BOOKMARK [3][-]{subsubsection.10.3.2.2}{Formalizing the idea}{subsection.10.3.2}% 241
+\BOOKMARK [1][-]{section.10.4}{Sorting algorithms}{chapter.10}% 242
+\BOOKMARK [2][-]{subsection.10.4.1}{Selection sort}{section.10.4}% 243
+\BOOKMARK [2][-]{subsection.10.4.2}{Insertion sort}{section.10.4}% 244
+\BOOKMARK [2][-]{subsection.10.4.3}{Merge sort}{section.10.4}% 245
+\BOOKMARK [3][-]{subsubsection.10.4.3.1}{Divide and conquer}{subsection.10.4.3}% 246
+\BOOKMARK [3][-]{subsubsection.10.4.3.2}{Pseudocode}{subsection.10.4.3}% 247
+\BOOKMARK [3][-]{subsubsection.10.4.3.3}{Merging two sorted sequences}{subsection.10.4.3}% 248
+\BOOKMARK [3][-]{subsubsection.10.4.3.4}{Worst-case complexity}{subsection.10.4.3}% 249
+\BOOKMARK [2][-]{subsection.10.4.4}{Quick sort}{section.10.4}% 250
+\BOOKMARK [3][-]{subsubsection.10.4.4.1}{Pseudocode}{subsection.10.4.4}% 251
+\BOOKMARK [3][-]{subsubsection.10.4.4.2}{Partition}{subsection.10.4.4}% 252
+\BOOKMARK [3][-]{subsubsection.10.4.4.3}{Worst-case complexity}{subsection.10.4.4}% 253
+\BOOKMARK [3][-]{subsubsection.10.4.4.4}{Average-case complexity}{subsection.10.4.4}% 254
+\BOOKMARK [1][-]{section.10.5}{Exact complexity of SP}{chapter.10}% 255
+\BOOKMARK [1][-]{section.10.6}{Two-way partitioning}{chapter.10}% 256
+\BOOKMARK [2][-]{subsection.10.6.1}{A paradox?}{section.10.6}% 257
+\BOOKMARK [0][-]{chapter.11}{Searching}{part.3}% 258
+\BOOKMARK [1][-]{section.11.1}{Notation}{chapter.11}% 259
+\BOOKMARK [1][-]{section.11.2}{Binary search trees}{chapter.11}% 260
+\BOOKMARK [2][-]{subsection.11.2.1}{BST min and max}{section.11.2}% 261
+\BOOKMARK [2][-]{subsection.11.2.2}{BST find}{section.11.2}% 262
+\BOOKMARK [2][-]{subsection.11.2.3}{BST insert}{section.11.2}% 263
+\BOOKMARK [2][-]{subsection.11.2.4}{BST delete}{section.11.2}% 264
+\BOOKMARK [3][-]{subsubsection.11.2.4.1}{Deleting a node with both subnodes}{subsection.11.2.4}% 265
+\BOOKMARK [3][-]{subsubsection.11.2.4.2}{Putting it all together}{subsection.11.2.4}% 266
+\BOOKMARK [2][-]{subsection.11.2.5}{Complexity}{section.11.2}% 267
+\BOOKMARK [1][-]{section.11.3}{AVL trees}{chapter.11}% 268
+\BOOKMARK [2][-]{subsection.11.3.1}{Balance-independent methods}{section.11.3}% 269
+\BOOKMARK [2][-]{subsection.11.3.2}{Balance-dependent methods}{section.11.3}% 270
+\BOOKMARK [3][-]{subsubsection.11.3.2.1}{Tree rotation properties}{subsection.11.3.2}% 271
+\BOOKMARK [3][-]{subsubsection.11.3.2.2}{The remaining cases}{subsection.11.3.2}% 272
+\BOOKMARK [1][-]{section.11.4}{Heaps}{chapter.11}% 273
+\BOOKMARK [2][-]{subsection.11.4.1}{Priority queues}{section.11.4}% 274
+\BOOKMARK [2][-]{subsection.11.4.2}{Heap properties}{section.11.4}% 275
+\BOOKMARK [3][-]{subsubsection.11.4.2.1}{Insertion}{subsection.11.4.2}% 276
+\BOOKMARK [3][-]{subsubsection.11.4.2.2}{Maximum}{subsection.11.4.2}% 277
+\BOOKMARK [3][-]{subsubsection.11.4.2.3}{Popping the maximum}{subsection.11.4.2}% 278
+\BOOKMARK [3][-]{subsubsection.11.4.2.4}{Initial heap construction}{subsection.11.4.2}% 279
+\BOOKMARK [0][-]{chapter.12}{Shortest paths}{part.3}% 280
+\BOOKMARK [1][-]{section.12.1}{Basic literature}{chapter.12}% 281
+\BOOKMARK [2][-]{subsection.12.1.1}{Problem variants}{section.12.1}% 282
+\BOOKMARK [2][-]{subsection.12.1.2}{Algorithms}{section.12.1}% 283
+\BOOKMARK [1][-]{section.12.2}{Weight functions}{chapter.12}% 284
+\BOOKMARK [1][-]{section.12.3}{The shortest path tree}{chapter.12}% 285
+\BOOKMARK [1][-]{section.12.4}{Dijkstra's algorithm}{chapter.12}% 286
+\BOOKMARK [2][-]{subsection.12.4.1}{Data structures}{section.12.4}% 287
+\BOOKMARK [2][-]{subsection.12.4.2}{Reach, settle and relax}{section.12.4}% 288
+\BOOKMARK [2][-]{subsection.12.4.3}{A simple implementation}{section.12.4}% 289
+\BOOKMARK [3][-]{subsubsection.12.4.3.1}{Complexity}{subsection.12.4.3}% 290
+\BOOKMARK [3][-]{subsubsection.12.4.3.2}{Correctness}{subsection.12.4.3}% 291
+\BOOKMARK [2][-]{subsection.12.4.4}{A more refined implementation}{section.12.4}% 292
+\BOOKMARK [3][-]{subsubsection.12.4.4.1}{Pseudocode}{subsection.12.4.4}% 293
+\BOOKMARK [3][-]{subsubsection.12.4.4.2}{Complexity}{subsection.12.4.4}% 294
+\BOOKMARK [2][-]{subsection.12.4.5}{The point-to-point SPP}{section.12.4}% 295
+\BOOKMARK [1][-]{section.12.5}{Floyd-Warshall algorithm}{chapter.12}% 296
+\BOOKMARK [2][-]{subsection.12.5.1}{Data structures}{section.12.5}% 297
+\BOOKMARK [2][-]{subsection.12.5.2}{Pseudocode}{section.12.5}% 298
+\BOOKMARK [2][-]{subsection.12.5.3}{Negative cycles}{section.12.5}% 299

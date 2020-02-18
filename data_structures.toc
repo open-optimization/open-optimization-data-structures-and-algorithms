@@ -1,0 +1,299 @@
+\contentsline {part}{I\hspace {1em}Preliminaries and reminders}{15}{part.1}
+\contentsline {chapter}{\numberline {1}Computation}{17}{chapter.1}
+\contentsline {section}{\numberline {1.1}Computer hardware}{17}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Programs}{17}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}Computer model}{18}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Models of computation}{18}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Church's Thesis}{18}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Languages}{18}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Declarative languages}{19}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Decidability}{19}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Java}{19}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Efficiency}{20}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Structuring data}{20}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Problems}{21}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Algorithms}{21}{subsection.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.3.1}Algorithmic complexity}{22}{subsubsection.1.4.3.1}
+\contentsline {subsubsection}{\numberline {1.4.3.2}Worst-case time complexity calculations}{22}{subsubsection.1.4.3.2}
+\contentsline {subsubsection}{\numberline {1.4.3.3}Complexity orders}{23}{subsubsection.1.4.3.3}
+\contentsline {chapter}{\numberline {2}Java basics}{25}{chapter.2}
+\contentsline {section}{\numberline {2.1}Development of a Java program}{25}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Variables}{26}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}References}{26}{subsubsection.2.1.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Comments}{26}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Classes}{27}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.3.1}The {\tt this} attribute}{27}{subsubsection.2.1.3.1}
+\contentsline {subsubsection}{\numberline {2.1.3.2}Inheritance}{28}{subsubsection.2.1.3.2}
+\contentsline {subsubsection}{\numberline {2.1.3.3}Interfaces}{28}{subsubsection.2.1.3.3}
+\contentsline {subsection}{\numberline {2.1.4}Functions}{29}{subsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Passing by reference or value}{30}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}The {\tt main} function}{30}{subsubsection.2.1.4.2}
+\contentsline {subsubsection}{\numberline {2.1.4.3}Specifiers}{30}{subsubsection.2.1.4.3}
+\contentsline {subsection}{\numberline {2.1.5}Data types}{31}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}The dot operator}{31}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}The curly brackets}{31}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}The semicolon}{32}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}How code is executed}{32}{subsection.2.1.9}
+\contentsline {section}{\numberline {2.2}Arrays in Java}{32}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Dimensions}{32}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The square bracket notation}{32}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Example: plotting the graph of a function}{33}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}A typical output}{33}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Comments and imports}{33}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}The class declaration}{34}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}The {\tt main} function}{35}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Initialization}{35}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Function tabulation}{36}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Converting the function table to an array}{36}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Printing the screen}{37}{subsection.2.3.8}
+\contentsline {subsection}{\numberline {2.3.9}Compilation and running}{38}{subsection.2.3.9}
+\contentsline {part}{II\hspace {1em}Data structures}{39}{part.2}
+\contentsline {chapter}{\numberline {3}Graphs}{41}{chapter.3}
+\contentsline {section}{\numberline {3.1}Directed graphs}{41}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Directed neighbourhoods}{42}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Undirected graphs}{42}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Complement graphs}{42}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Neighbourhoods}{43}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Graph isomorphism}{43}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Line graph}{44}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Subgraphs}{44}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Stable and clique subgraphs}{45}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Some applications}{45}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Connectivity}{46}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Simple paths}{46}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}An alternative definition of paths and connectivity}{47}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Paths: not so simple}{47}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Strong connectivity}{47}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Cycles}{47}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}An alternative definition of cycles}{48}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.7}The cycle space}{48}{subsection.3.4.7}
+\contentsline {subsubsection}{\numberline {3.4.7.1}Cycle-edge incidence vectors}{49}{subsubsection.3.4.7.1}
+\contentsline {section}{\numberline {3.5}Basic operations on graphs}{49}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Addition and removal of vertices and edges}{50}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Contraction}{50}{subsection.3.5.2}
+\contentsline {chapter}{\numberline {4}Linear data structures}{53}{chapter.4}
+\contentsline {section}{\numberline {4.1}Arrays}{53}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Jagged arrays}{53}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Adjacency lists}{54}{subsubsection.4.1.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Array operations}{54}{subsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2.1}Size in $O(1)$}{55}{subsubsection.4.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.2.2}Moving a subsequence}{55}{subsubsection.4.1.2.2}
+\contentsline {subsubsection}{\numberline {4.1.2.3}Removal and insertion}{56}{subsubsection.4.1.2.3}
+\contentsline {subsection}{\numberline {4.1.3}Complexity of an incomplete loop}{56}{subsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3.1}Worst-case complexity}{56}{subsubsection.4.1.3.1}
+\contentsline {subsubsection}{\numberline {4.1.3.2}Average-case complexity}{57}{subsubsection.4.1.3.2}
+\contentsline {subsection}{\numberline {4.1.4}Limitations of the array structure}{58}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Lists}{58}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Singly-linked lists}{58}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Doubly-linked lists}{59}{subsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2.1}The placeholder node}{59}{subsubsection.4.2.2.1}
+\contentsline {subsection}{\numberline {4.2.3}Lists modelled as graphs}{59}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}List operations}{59}{subsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.4.1}Insertion}{60}{subsubsection.4.2.4.1}
+\contentsline {subsubsection}{\numberline {4.2.4.2}Removal}{60}{subsubsection.4.2.4.2}
+\contentsline {subsubsection}{\numberline {4.2.4.3}Find}{60}{subsubsection.4.2.4.3}
+\contentsline {subsubsection}{\numberline {4.2.4.4}Access}{61}{subsubsection.4.2.4.4}
+\contentsline {subsubsection}{\numberline {4.2.4.5}Other operations}{61}{subsubsection.4.2.4.5}
+\contentsline {subsection}{\numberline {4.2.5}Java implementation}{61}{subsection.4.2.5}
+\contentsline {subsubsection}{\numberline {4.2.5.1}The {{\tt Node}} class}{62}{subsubsection.4.2.5.1}
+\contentsline {subsubsection}{\numberline {4.2.5.2}The {\tt DLList} class}{62}{subsubsection.4.2.5.2}
+\contentsline {subsubsection}{\numberline {4.2.5.3}The {\tt main} function}{64}{subsubsection.4.2.5.3}
+\contentsline {section}{\numberline {4.3}Queues}{65}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Circular arrays}{65}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Java implementation}{66}{subsubsection.4.3.1.1}
+\contentsline {subsection}{\numberline {4.3.2}What are queues used for?}{67}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Stacks}{67}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Using stacks for validating mathematical syntax}{68}{subsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.1.1}Java implementation}{68}{subsubsection.4.4.1.1}
+\contentsline {subsubsection}{\numberline {4.4.1.2}The {\tt main} method for {\tt bracketStack}}{69}{subsubsection.4.4.1.2}
+\contentsline {subsubsection}{\numberline {4.4.1.3}Sample output}{70}{subsubsection.4.4.1.3}
+\contentsline {subsection}{\numberline {4.4.2}Calling functions}{71}{subsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.2.1}Smashing the stack for fun and profit}{71}{subsubsection.4.4.2.1}
+\contentsline {section}{\numberline {4.5}Maps}{71}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Maps as parametrized interfaces}{72}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Example of map usage in Java}{73}{subsection.4.5.2}
+\contentsline {chapter}{\numberline {5}Hashing}{75}{chapter.5}
+\contentsline {section}{\numberline {5.1}Do we really need it?}{75}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}The phonebook example}{76}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Formal explanation}{76}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Applications of hashing to Java}{77}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}The last nagging doubt}{77}{section.5.2}
+\contentsline {section}{\numberline {5.3}Java implementation}{78}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}A hash table without collisions}{78}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}Keys and records}{78}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}The main class}{78}{subsubsection.5.3.1.2}
+\contentsline {subsubsection}{\numberline {5.3.1.3}The hash function}{79}{subsubsection.5.3.1.3}
+\contentsline {subsubsection}{\numberline {5.3.1.4}Main function}{79}{subsubsection.5.3.1.4}
+\contentsline {subsection}{\numberline {5.3.2}A hash table allowing for collisions}{80}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}A Java implementation of a singly-linked list}{80}{subsubsection.5.3.2.1}
+\contentsline {subsubsection}{\numberline {5.3.2.2}The main class}{82}{subsubsection.5.3.2.2}
+\contentsline {subsubsection}{\numberline {5.3.2.3}Adding elements to the hash table}{83}{subsubsection.5.3.2.3}
+\contentsline {subsubsection}{\numberline {5.3.2.4}Finding elements in the hash table}{83}{subsubsection.5.3.2.4}
+\contentsline {subsubsection}{\numberline {5.3.2.5}Main function}{83}{subsubsection.5.3.2.5}
+\contentsline {chapter}{\numberline {6}Trees}{87}{chapter.6}
+\contentsline {section}{\numberline {6.1}Definitions}{88}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Roots and direction}{88}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Leafs, depth and height}{88}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Spanning tree}{88}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Vertex labels}{88}{subsection.6.1.4}
+\contentsline {section}{\numberline {6.2}Basic properties}{89}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Number of edges}{89}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Connectivity}{90}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Acyclicity}{90}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Edge swapping operation}{90}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}The number of labelled trees}{90}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Mapping trees to sequences}{91}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Mapping sequences to trees}{91}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}Applications}{92}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Finding a basis of the cycle space}{92}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Chemical trees}{92}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Trees and languages}{93}{subsection.6.4.3}
+\contentsline {subsubsection}{\numberline {6.4.3.1}Trees and recursion}{93}{subsubsection.6.4.3.1}
+\contentsline {subsubsection}{\numberline {6.4.3.2}Syntax of formal languages}{94}{subsubsection.6.4.3.2}
+\contentsline {paragraph}{\numberline {6.4.3.2.1}Construction of valid sentences}{94}{paragraph.6.4.3.2.1}
+\contentsline {paragraph}{\numberline {6.4.3.2.2}Recognition of valid sentences}{94}{paragraph.6.4.3.2.2}
+\contentsline {subsubsection}{\numberline {6.4.3.3}Semantics of formal languages}{95}{subsubsection.6.4.3.3}
+\contentsline {subsubsection}{\numberline {6.4.3.4}Syntax of natural languages}{95}{subsubsection.6.4.3.4}
+\contentsline {subsubsection}{\numberline {6.4.3.5}Semantics of natural languages}{96}{subsubsection.6.4.3.5}
+\contentsline {subsection}{\numberline {6.4.4}Trees in networks}{97}{subsection.6.4.4}
+\contentsline {subsubsection}{\numberline {6.4.4.1}Commodity networks}{97}{subsubsection.6.4.4.1}
+\contentsline {subsubsection}{\numberline {6.4.4.2}Distance networks}{97}{subsubsection.6.4.4.2}
+\contentsline {part}{III\hspace {1em}Algorithms}{99}{part.3}
+\contentsline {chapter}{\numberline {7}Recursive algorithms}{101}{chapter.7}
+\contentsline {section}{\numberline {7.1}Motivations}{101}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Proving program properties}{101}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Expressing certain procedures naturally}{101}{subsection.7.1.2}
+\contentsline {subsubsection}{\numberline {7.1.2.1}Encoding the tree}{102}{subsubsection.7.1.2.1}
+\contentsline {subsubsection}{\numberline {7.1.2.2}A code with limited scope}{102}{subsubsection.7.1.2.2}
+\contentsline {subsubsection}{\numberline {7.1.2.3}Algorithms and problems}{102}{subsubsection.7.1.2.3}
+\contentsline {subsubsection}{\numberline {7.1.2.4}Recursion saves the day}{103}{subsubsection.7.1.2.4}
+\contentsline {subsubsection}{\numberline {7.1.2.5}Back to iteration}{103}{subsubsection.7.1.2.5}
+\contentsline {section}{\numberline {7.2}Iteration and recursion}{104}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Terminating the recursion}{104}{subsection.7.2.1}
+\contentsline {section}{\numberline {7.3}Listing permutations}{105}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Some background material on permutations}{105}{subsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.1.1}Product of permutations}{106}{subsubsection.7.3.1.1}
+\contentsline {subsubsection}{\numberline {7.3.1.2}Group structure}{106}{subsubsection.7.3.1.2}
+\contentsline {subsubsection}{\numberline {7.3.1.3}Cycle notation}{107}{subsubsection.7.3.1.3}
+\contentsline {subsection}{\numberline {7.3.2}The inductive step}{107}{subsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.2.1}Generalizing the example to an integer $n$}{108}{subsubsection.7.3.2.1}
+\contentsline {subsubsection}{\numberline {7.3.2.2}The induction starts at 1}{108}{subsubsection.7.3.2.2}
+\contentsline {subsection}{\numberline {7.3.3}The algorithm}{108}{subsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.3.1}Data structures}{109}{subsubsection.7.3.3.1}
+\contentsline {subsection}{\numberline {7.3.4}Java implementation}{109}{subsection.7.3.4}
+\contentsline {subsubsection}{\numberline {7.3.4.1}Class structure}{109}{subsubsection.7.3.4.1}
+\contentsline {subsubsection}{\numberline {7.3.4.2}The {\tt main} method}{110}{subsubsection.7.3.4.2}
+\contentsline {subsubsection}{\numberline {7.3.4.3}The {\tt printList} method}{111}{subsubsection.7.3.4.3}
+\contentsline {subsubsection}{\numberline {7.3.4.4}The {\tt orders} method}{111}{subsubsection.7.3.4.4}
+\contentsline {section}{\numberline {7.4}The Hanoi tower}{112}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Inductive step}{113}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Base case}{113}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Java implementation}{113}{subsection.7.4.3}
+\contentsline {section}{\numberline {7.5}Recursion in logic}{114}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Definitions}{114}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}G\"odel's theorem}{114}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}The beautiful and easy part of the proof}{115}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}The other part of the proof}{115}{subsection.7.5.4}
+\contentsline {subsection}{\numberline {7.5.5}A natural language interpretation}{115}{subsection.7.5.5}
+\contentsline {chapter}{\numberline {8}Graph searching and traversal}{117}{chapter.8}
+\contentsline {section}{\numberline {8.1}Graph scanning}{117}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}The {\sc Graph Scanning} algorithm}{117}{subsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.1}Correctness}{118}{subsubsection.8.1.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.2}Complexity}{118}{subsubsection.8.1.1.2}
+\contentsline {subsubsection}{\numberline {8.1.1.3}Connected components}{118}{subsubsection.8.1.1.3}
+\contentsline {subsubsection}{\numberline {8.1.1.4}The exploration tree}{119}{subsubsection.8.1.1.4}
+\contentsline {subsubsection}{\numberline {8.1.1.5}Choosing $v\in Q$}{119}{subsubsection.8.1.1.5}
+\contentsline {section}{\numberline {8.2}Breadth-first search}{120}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Paths with fewest edges}{120}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}History of the BFS}{121}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Looking for a good route in public transportation}{121}{subsection.8.2.3}
+\contentsline {section}{\numberline {8.3}Depth-first search}{123}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}A recursive version of DFS}{124}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}History of the DFS}{125}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Easy and difficult natural languages}{125}{subsection.8.3.3}
+\contentsline {section}{\numberline {8.4}Finding a spanning tree of minimum cost}{127}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Prim's algorithm: pseudocode}{128}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Complexity of Prim's algorithm}{129}{subsection.8.4.2}
+\contentsline {chapter}{\numberline {9}Problems and complexity}{131}{chapter.9}
+\contentsline {section}{\numberline {9.1}Decision problems}{131}{section.9.1}
+\contentsline {section}{\numberline {9.2}Optimization problems}{132}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Relationship between decision and optimization}{132}{subsection.9.2.1}
+\contentsline {section}{\numberline {9.3}Algorithms}{132}{section.9.3}
+\contentsline {section}{\numberline {9.4}Complexity}{132}{section.9.4}
+\contentsline {section}{\numberline {9.5}Easy and difficult problems}{133}{section.9.5}
+\contentsline {subsection}{\numberline {9.5.1}Reductions}{133}{subsection.9.5.1}
+\contentsline {subsection}{\numberline {9.5.2}The new problem is easy}{134}{subsection.9.5.2}
+\contentsline {subsection}{\numberline {9.5.3}The new problem is as hard as another problem}{134}{subsection.9.5.3}
+\contentsline {subsection}{\numberline {9.5.4}{\bf NP}-hardness and {\bf NP}-completeness}{134}{subsection.9.5.4}
+\contentsline {subsection}{\numberline {9.5.5}The most celebrated conjecture in computer science}{135}{subsection.9.5.5}
+\contentsline {subsection}{\numberline {9.5.6}The student's pitfall}{135}{subsection.9.5.6}
+\contentsline {section}{\numberline {9.6}Exact and heuristic algorithms}{135}{section.9.6}
+\contentsline {subsection}{\numberline {9.6.1}A heuristic method for {\sc Max Stable}}{135}{subsection.9.6.1}
+\contentsline {chapter}{\numberline {10}Sorting}{137}{chapter.10}
+\contentsline {section}{\numberline {10.1}The searching problem}{137}{section.10.1}
+\contentsline {section}{\numberline {10.2}Searching unsorted and sorted arrays}{137}{section.10.2}
+\contentsline {section}{\numberline {10.3}The sorting problem}{138}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Considerations on the complexity of SP}{138}{subsection.10.3.1}
+\contentsline {subsubsection}{\numberline {10.3.1.1}The best algorithm for a problem}{138}{subsubsection.10.3.1.1}
+\contentsline {subsubsection}{\numberline {10.3.1.2}The $\Omega (\cdot )$ and $\Theta (\cdot )$ notations}{138}{subsubsection.10.3.1.2}
+\contentsline {subsection}{\numberline {10.3.2}Best-case complexity of SP}{138}{subsection.10.3.2}
+\contentsline {subsubsection}{\numberline {10.3.2.1}The sorting tree}{139}{subsubsection.10.3.2.1}
+\contentsline {subsubsection}{\numberline {10.3.2.2}Formalizing the idea}{139}{subsubsection.10.3.2.2}
+\contentsline {section}{\numberline {10.4}Sorting algorithms}{140}{section.10.4}
+\contentsline {subsection}{\numberline {10.4.1}Selection sort}{140}{subsection.10.4.1}
+\contentsline {subsection}{\numberline {10.4.2}Insertion sort}{140}{subsection.10.4.2}
+\contentsline {subsection}{\numberline {10.4.3}Merge sort}{141}{subsection.10.4.3}
+\contentsline {subsubsection}{\numberline {10.4.3.1}Divide and conquer}{141}{subsubsection.10.4.3.1}
+\contentsline {subsubsection}{\numberline {10.4.3.2}Pseudocode}{141}{subsubsection.10.4.3.2}
+\contentsline {subsubsection}{\numberline {10.4.3.3}Merging two sorted sequences}{141}{subsubsection.10.4.3.3}
+\contentsline {subsubsection}{\numberline {10.4.3.4}Worst-case complexity}{142}{subsubsection.10.4.3.4}
+\contentsline {subsection}{\numberline {10.4.4}Quick sort}{142}{subsection.10.4.4}
+\contentsline {subsubsection}{\numberline {10.4.4.1}Pseudocode}{142}{subsubsection.10.4.4.1}
+\contentsline {subsubsection}{\numberline {10.4.4.2}Partition}{143}{subsubsection.10.4.4.2}
+\contentsline {subsubsection}{\numberline {10.4.4.3}Worst-case complexity}{144}{subsubsection.10.4.4.3}
+\contentsline {subsubsection}{\numberline {10.4.4.4}Average-case complexity}{144}{subsubsection.10.4.4.4}
+\contentsline {section}{\numberline {10.5}Exact complexity of SP}{146}{section.10.5}
+\contentsline {section}{\numberline {10.6}Two-way partitioning}{147}{section.10.6}
+\contentsline {subsection}{\numberline {10.6.1}A paradox?}{147}{subsection.10.6.1}
+\contentsline {chapter}{\numberline {11}Searching}{149}{chapter.11}
+\contentsline {section}{\numberline {11.1}Notation}{149}{section.11.1}
+\contentsline {section}{\numberline {11.2}Binary search trees}{150}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}BST {\tt min} and {\tt max}}{150}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}BST {\tt find}}{151}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.3}BST {\tt insert}}{152}{subsection.11.2.3}
+\contentsline {subsection}{\numberline {11.2.4}BST {\tt delete}}{152}{subsection.11.2.4}
+\contentsline {subsubsection}{\numberline {11.2.4.1}Deleting a node with both subnodes}{153}{subsubsection.11.2.4.1}
+\contentsline {subsubsection}{\numberline {11.2.4.2}Putting it all together}{154}{subsubsection.11.2.4.2}
+\contentsline {subsection}{\numberline {11.2.5}Complexity}{154}{subsection.11.2.5}
+\contentsline {section}{\numberline {11.3}AVL trees}{154}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Balance-independent methods}{155}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}Balance-dependent methods}{155}{subsection.11.3.2}
+\contentsline {subsubsection}{\numberline {11.3.2.1}Tree rotation properties}{156}{subsubsection.11.3.2.1}
+\contentsline {subsubsection}{\numberline {11.3.2.2}The remaining cases}{157}{subsubsection.11.3.2.2}
+\contentsline {section}{\numberline {11.4}Heaps}{159}{section.11.4}
+\contentsline {subsection}{\numberline {11.4.1}Priority queues}{159}{subsection.11.4.1}
+\contentsline {subsection}{\numberline {11.4.2}Heap properties}{159}{subsection.11.4.2}
+\contentsline {subsubsection}{\numberline {11.4.2.1}Insertion}{160}{subsubsection.11.4.2.1}
+\contentsline {subsubsection}{\numberline {11.4.2.2}Maximum}{161}{subsubsection.11.4.2.2}
+\contentsline {subsubsection}{\numberline {11.4.2.3}Popping the maximum}{161}{subsubsection.11.4.2.3}
+\contentsline {subsubsection}{\numberline {11.4.2.4}Initial heap construction}{161}{subsubsection.11.4.2.4}
+\contentsline {chapter}{\numberline {12}Shortest paths}{163}{chapter.12}
+\contentsline {section}{\numberline {12.1}Basic literature}{163}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Problem variants}{163}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Algorithms}{164}{subsection.12.1.2}
+\contentsline {section}{\numberline {12.2}Weight functions}{164}{section.12.2}
+\contentsline {section}{\numberline {12.3}The shortest path tree}{165}{section.12.3}
+\contentsline {section}{\numberline {12.4}Dijkstra's algorithm}{166}{section.12.4}
+\contentsline {subsection}{\numberline {12.4.1}Data structures}{166}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.2}Reach, settle and relax}{166}{subsection.12.4.2}
+\contentsline {subsection}{\numberline {12.4.3}A simple implementation}{166}{subsection.12.4.3}
+\contentsline {subsubsection}{\numberline {12.4.3.1}Complexity}{167}{subsubsection.12.4.3.1}
+\contentsline {subsubsection}{\numberline {12.4.3.2}Correctness}{167}{subsubsection.12.4.3.2}
+\contentsline {subsection}{\numberline {12.4.4}A more refined implementation}{169}{subsection.12.4.4}
+\contentsline {subsubsection}{\numberline {12.4.4.1}Pseudocode}{169}{subsubsection.12.4.4.1}
+\contentsline {subsubsection}{\numberline {12.4.4.2}Complexity}{169}{subsubsection.12.4.4.2}
+\contentsline {subsection}{\numberline {12.4.5}The point-to-point SPP}{170}{subsection.12.4.5}
+\contentsline {section}{\numberline {12.5}Floyd-Warshall algorithm}{170}{section.12.5}
+\contentsline {subsection}{\numberline {12.5.1}Data structures}{170}{subsection.12.5.1}
+\contentsline {subsection}{\numberline {12.5.2}Pseudocode}{170}{subsection.12.5.2}
+\contentsline {subsection}{\numberline {12.5.3}Negative cycles}{171}{subsection.12.5.3}
