@@ -1,6 +1,6 @@
 # open-optimization-data-structures-and-algorithms
 
-Textbook on Data Structures and Algorithms used for a course at the Computer Science Department of Ecole Polytechnique (France). 
+This is a textbook on Data Structures and Algorithms used for a course at the Computer Science Department of Ecole Polytechnique (France). 
 
 The course was offered to 2nd year students, during the fall terms of the academic years 2011/12 and 2012/13. What with Ecole Polytechnique being a "Grande École" who accepts students who studied two years at a "preparatory school" (essentially an intensive 2-year B.Sc. course given at a school midway between a high school and a teaching university), these students took the course when they were 21-22 years old. 
 
