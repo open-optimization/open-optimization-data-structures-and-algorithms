@@ -8,7 +8,7 @@ I am not a specialist in data structures and algorithms (and it shows). My motiv
 
 The approach I took was to inherit a syllabus from previous years, make it evolve slightly towards topics I was more familiar with (combinatorial optimization), and explain anything I didn't know (which was more or less everything) to myself down to the minute details, so that I wouldn't make any blatant blunder in class. I hope my approach was successful. My students did reasonably well in their exams, so I guess that's a reasonably good sign. 
 
-The code is Java because this is what we used to teach, as a departmental policy, to our students (I would have gladly used something different, but I had no choice). 
+The code is Java because this is what we used to teach our students as a departmental policy. I would have gladly used something different, but I had no choice. 
 
 I am sure that there are many typos, errors, and so on, since a mere two years of use is definitely not enough to make a textbook stable. The textbook (with source) being now online, I can probably crowdsource the responsibility for these inadequacies out, and not feel quite so guilty about them anymore.
 
