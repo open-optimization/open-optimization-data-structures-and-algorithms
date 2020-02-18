@@ -11,3 +11,5 @@ The approach I took was to inherit a syllabus from previous years, make it evolv
 The code is Java because this is what we used to teach, as a departmental policy, to our students (I would have gladly used something different, but I had no choice). 
 
 I am sure that there are many typos, errors, and so on, since a mere two years of use is definitely not enough to make a textbook stable. The textbook (with source) being now online, I can probably crowdsource the responsibility for these inadequacies out, and not feel quite so guilty about them anymore.
+
+Leo Liberti, Palaiseau
